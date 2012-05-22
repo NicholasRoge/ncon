@@ -1,0 +1,27 @@
+#############################
+NCon:  The brand new console!
+#############################
+Intallation instructions:
+Simply type "make", in your nearest *nix based console!
+    
+#########################################
+Instructions for Use
+#########################################
+At the moment, only the root user is enabled.  To begin using NCon, navigate to the "./build" directory, and type "./ncon".
+
+Sign in with:
+username:  root
+password:  password.
+
+Available commands:
+    -cd
+    -clr
+    -dir
+    -echo
+    -environ
+    -exit
+    -help
+    -md
+    -rm
+    
+For a description on the usage of these commands, type "command_name --help"
